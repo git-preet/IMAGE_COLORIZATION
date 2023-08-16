@@ -22,7 +22,7 @@ This is a TensorFlow implementation of the Residual Encoder Network based on [Au
 
 ## TensorFlow graph
 
-![residual_encoder](images/residual_encoder.png)
+![residual_encoder](residual_encoder.png)
 
 ## How to use
 
@@ -43,18 +43,18 @@ This is a TensorFlow implementation of the Residual Encoder Network based on [Au
 
 ## Examples
 
-* ![1](images/1.png)
-* ![2](images/2.png)
-* ![3](images/3.png)
-* ![4](images/4.png)
-* ![5](images/5.png)
-* ![6](images/6.png)
-* ![7](images/7.png)
-* ![8](images/8.png)
-* ![9](images/9.png)
-* ![10](images/10.png)
-* ![11](images/11.png)
-* ![12](images/12.png)
+* ![1](1.png)
+* ![2](2.png)
+* ![3](3.png)
+* ![4](4.png)
+* ![5](5.png)
+* ![6](6.png)
+* ![7](7.png)
+* ![8](8.png)
+* ![9](9.png)
+* ![10](10.png)
+* ![11](11.png)
+* ![12](12.png)
 
 * More example output images can be found in [sample_output_images](https://github.com/git-preet/IMAGE_COLORIZATION) folder.
 
