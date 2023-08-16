@@ -2,7 +2,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Template from jarvis](https://img.shields.io/badge/Hi-Jarvis-ff69b4.svg)](https://github.com/Armour/Jarvis)
+[![Template from jarvis](https://img.shields.io/badge/Hi-Jarvis-ff69b4.svg)](https://github.com/git-preet)
 
 ## Overview
 
@@ -133,15 +133,15 @@ Open the command line and navigate to the root folder you wish to install.  Then
 type the following commands
 
 ```console
-git clone https://github.com/jantic/DeOldify.git DeOldify
-cd DeOldify
+git clone https://github.com/git-preet/IMAGE_COLORIZATION Imagee
+cd Imagee
 conda env create -f environment.yml
 ```
 
 Then start running with these commands:
 
 ```console
-source activate deoldify
+source activate 
 jupyter lab
 ```
 
