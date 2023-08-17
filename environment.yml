@@ -1,4 +1,4 @@
-name: deoldify
+name: group-H
 channels:
 - fastai
 - conda-forge
