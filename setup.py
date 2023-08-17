@@ -16,7 +16,7 @@ def get_requirements():
 
 
 setup(
-    name="DeOldify",
+    name="git-preet",
     version="0.0.1",
     packages=find_packages(exclude=["tests"]),
     url="https://github.com/jantic/DeOldify",
